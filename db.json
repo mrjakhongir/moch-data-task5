@@ -1,6 +1,10 @@
 {
-	"accountInfo": {
-		"email": {},
-		"birhtdate": {}
-	}
+	"accountInfo": [
+		{
+			"email": {}
+		},
+		{
+			"birhtdate": {}
+		}
+	]
 }
