@@ -3,5 +3,6 @@
 	"birthdate": {},
 	"calendarLink": {},
 	"address": {},
-	"entity": {}
+	"entity": {},
+	"phoneNumber": {}
 }
