@@ -4,5 +4,6 @@
 	"calendarLink": {},
 	"address": {},
 	"entity": {},
-	"phoneNumber": {}
+	"phoneNumber": {},
+	"taxInfo": {}
 }
