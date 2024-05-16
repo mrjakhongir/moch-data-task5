@@ -1,6 +1,7 @@
 {
 	"accountInfo": {
 		"email": {},
-		"birhtdate": {}
+		"birhtdate": {},
+		"calendarLink": {}
 	}
 }
